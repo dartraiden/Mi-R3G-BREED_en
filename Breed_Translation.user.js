@@ -2,7 +2,7 @@
 // @name		BREED bootloader English translation
 // @description	BREED bootloader for Xiaomi Mi Router 3G translation
 // @namespace	breed_mi_r3g_en
-// @version		20190310.1
+// @version		20191017.1
 // @author		LESHIY_ODESSA, dartraiden
 // @include		http://192.168.1.1/*
 // ==/UserScript==
@@ -59,6 +59,9 @@
 		"更新完成，2 秒后跳转到系统信息页面。":"Successfully completed, will jump to the «System information» page after 2 seconds",
 		"操作完成，2 秒后跳转到系统信息页面。":"The operation is completed, will jump to the «System information» page after 2 seconds",
 		"作完成，2 秒后跳转到系统信息页面。":"The operation is completed, will jump to the «System information» page after 2 seconds",
+		"请选择一个有效的Firmware type":"Please select a valid firmware type.",
+		"当前固件不是一个有效的 Padavan 固件。":"Current firmware is not a valid Padavan firmware.",
+		"当前Firmware不是一个有效的 Padavan Firmware.":"Current firmware is not a valid Padavan firmware.",
 		"单击按钮备份相应的数据":"Click the button to back up the corresponding data.",
 		"按钮以重启路由":"button to restart router.",
 		"正在擦除 编程器固件":"Erasing",
@@ -84,7 +87,7 @@
 		"编程器固件大小不合法，不能判定为有效的编程器固件。":"The dump size is incorrect and cannot be judged as valid dump.",
 		"无法判断固件类型":"Unable to detect firmware type.",
 		"文件已上传，请确认下方列出的信息":"The file has been uploaded, please confirm the information listed below.",
-		"小米路由器 3G 原厂固件":"Original firmware",
+		"小米路由器 3G 原厂固件":"Stock firmware",
 		"MAC 地址修改":"MAC addresses",
 		"恢复出厂设置":"Factory Reset",
 		"文件未找到":"Not found",
