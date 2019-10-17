@@ -2,7 +2,7 @@
 // @name		BREED bootloader English translation
 // @description	BREED bootloader for Xiaomi Mi Router 3G translation
 // @namespace	breed_mi_r3g_en
-// @version		20191017.1
+// @version		20191018.1
 // @author		LESHIY_ODESSA, dartraiden
 // @include		http://192.168.1.1/*
 // ==/UserScript==
@@ -45,6 +45,8 @@
 	function translate() {
 		var ts = {
 		// The order matters - the shorter the string is, the lower it is, otherwise short strings will take precedence if they occur as part of long strings
+		"如果超频后无法开机，请按住复位键再通电，系统将以默认频率启动":"If you cannot turn on the power after overclocking, press and hold the reset button and power on, the system will start at the default frequency",
+		"设置当前刷入固件的类型，以便于在启动固件时设置特定的参数":"Set the type of current firmware so that specific parameters are set when the firmware is started.",
 		"本产品仅供个人免费使用，禁止用于商业目的":"This product is for personal use only and is forbidden for commercial use.",
 		"请选择正确的固件类型，错误选择可能损坏固件。":"Please select the correct firmware type, wrong selection may damage the firmware.",
 		"本页面不会自动刷新，请自行检查是否重启成功。":"This page will not be automatically refreshed. Please check if the restart was successful",
@@ -113,6 +115,7 @@
 		"更新确认":"Confirm update",
 		"路由正在重启，请耐心等待。":"The router is restarting, please wait.",
 		"路由正在重启":"Router is restarting",
+		"固件启动设置":"Startup settings",
 		"常规固件":"Regular firmware",
 		"编程器固件":"Full dump",
 		"小米 R3G Bdata":"Bdata",
@@ -121,6 +124,7 @@
 		"闪存布局":"Flash layout",
 		"RT6855/RT6856/MT7621 独立参数":"Independent parameters of RT6855/RT6856/MT7621",
 		"固件类型":"Firmware type",
+		"频率设置":"Overclocking",
 		"固件备份":"Firmware backup",
 		"操作正在进行":"Operation is in progress",
 		"内存":"RAM",
